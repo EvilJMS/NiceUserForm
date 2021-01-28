@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nice User Form</string>
+    <string name="nice_user_form">NICE USER FORM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="accept_terms_and_conditions">Accept terms and conditions</string>
+    <string name="gender_pronouns">Gender Pronouns</string>
+    <string name="birth_date">Birth date</string>
+    <string name="surname">Surname</string>
+</resources>
